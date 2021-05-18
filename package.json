@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Test.js",
+  "scripts": {
+    "AppStart": " nodemon Test.js"
+  },
+  "author": "Phally",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-formatter": "^0.1.0",
+    "nodemon": "^2.0.7"
+  }
+}
